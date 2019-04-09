@@ -1,5 +1,5 @@
 # AR-Museum
-> Here goes your awesome project description!
+> Prototyping of a virtual reality eyeglass technology applied in the field of tourism, in particular the visit of a museum.
 
 ## Table of contents
 * [General info](#general-info)
